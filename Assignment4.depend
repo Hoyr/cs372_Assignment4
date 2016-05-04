@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1462323341 source:c:\users\hoyr\documents\assignment4\main.cpp
+	<iostream>
+	"stringprocessor.h"
+	"zeroswap.h"
+
+1462320322 c:\users\hoyr\documents\assignment4\stringprocessor.h
+	<string>
+	<memory>
+
+1462323014 source:c:\users\hoyr\documents\assignment4\fixnumbers.cpp
+	"fixnumbers.h"
+
+1462321532 c:\users\hoyr\documents\assignment4\fixnumbers.h
+	"stringprocessor.h"
+
+1462323091 source:c:\users\hoyr\documents\assignment4\stringprocessor.cpp
+	"stringprocessor.h"
+
+1462323222 c:\users\hoyr\documents\assignment4\zeroswap.h
+	"stringprocessor.h"
+
+1462323376 source:c:\users\hoyr\documents\assignment4\zeroswap.cpp
+	"zeroswap.h"
+
